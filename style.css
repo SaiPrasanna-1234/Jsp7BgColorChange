@@ -17,7 +17,12 @@ p{
     color:indigo;
     font-size: x-large;
 }
-
+.nav-item{
+    background-color:rgb(193, 152, 99);
+    display:inline;
+    padding: 0px 10px;
+    border-radius: 5px;
+}
 .content{
     background-color: black;
     color:white;
