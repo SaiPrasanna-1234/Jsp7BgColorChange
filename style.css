@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.container{
+    display:flex;
+    background-color: rgb(105, 162, 70);
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+p{
+    color:indigo;
+    font-size: x-large;
+}
+
+.content{
+    background-color: black;
+    color:white;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 120px;
+    border-radius: 20px;
+    padding: 12px;
+    
+}
+.section{
+    display:flex;
+    flex-direction: row;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    margin-top:15px;
+    border-radius: 5px;
+}
